@@ -1,4 +1,4 @@
-# Walmart Weekly Sales Forcast
+# Walmart Weekly Sales Forecast
 Creating a model to predict weekly sales at Walmart locations.
 
 The goal of this project is to create a model capable of predicting weekly sales throughout the year across multiple retail locations. Having a model such as this can provide decision support regarding future plans related to stock planning, investments, operations, and accounting.
